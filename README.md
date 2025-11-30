@@ -3,4 +3,5 @@
 
 This project was created for study purposes.
 
-Thanks for [aiogramm](https://github.com/aiogram/aiogram)
+Thanks for [aiogram](https://github.com/aiogram/aiogram)
+
