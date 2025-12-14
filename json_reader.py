@@ -6,6 +6,8 @@ JSON_DIR = "conf"
 
 class JSON_NAMES:
     ALL_DISEASES = "all.json"
+    ALL_RECOMMENDATIONS = "recommendations.json"
+    ALL_RU_RECOMMENDATIONS = "rec_ru.json"
 
 
 
@@ -29,6 +31,22 @@ async def get_all_diseases() -> {str : str}:
     return content
 
 
+async def get_all_recommendations_diseases(name : str) -> [str]:
+    list = []
+    print("test")
+    with open(f"{JSON_DIR}/{JSON_NAMES.ALL_RECOMMENDATIONS}", "r", encoding="UTF-8") as file:
+        content = json.load(file)
 
+
+    return content.get(name)
+
+async def get_all_recommendations_translate(name : str) -> [str]:
+    list = []
+    print("test")
+    with open(f"{JSON_DIR}/{JSON_NAMES.ALL_RU_RECOMMENDATIONS}", "r", encoding="UTF-8") as file:
+        content = json.load(file)
+
+
+    return content.get(name)
 
 
