@@ -1,0 +1,234 @@
+{
+    "allergy": [
+        "keep_the_house_clean",
+        "avoid_allergens",
+        "take_antihistamines"
+    ],
+    "angina": [
+        "gargle_with_salt_water",
+        "take_antibiotics",
+        "drink_plenty_water"
+    ],
+    "appendicitis": [
+        "surgical_removal",
+        "take_antibiotics"
+    ],
+    "arthritis": [
+        "take_pain_relievers",
+        "avoid_lifting_weights"
+    ],
+    "asthma": [
+        "avoid_triggers",
+        "use_inhaler"
+    ],
+    "bronchitis": [
+        "do_inhalations",
+        "drink_plenty_water",
+        "get_plenty_rest"
+    ],
+    "chickenpox": [
+        "avoid_scratching",
+        "apply_calamine_lotion",
+        "rest_and_drink_fluids"
+    ],
+    "cholecystitis": [
+        "avoid_fatty_foods",
+        "follow_diet"
+    ],
+    "conjunctivitis": [
+        "use_eye_drops",
+        "wash_hands_regularly"
+    ],
+    "constipation": [
+        "increase_fiber_intake",
+        "drink_lots_of_water"
+    ],
+    "coronavirus": [
+        "isolate_from_others",
+        "rest_and_drink_fluids",
+        "wash_hands_regularly"
+    ],
+    "cystitis": [
+        "drink_plenty_water",
+        "take_antibiotics"
+    ],
+    "dandruff": [
+        "use_anti_dandruff_shampoo"
+    ],
+    "dermatitis": [
+        "use_hormonal_ointments",
+        "avoid_allergens"
+    ],
+    "diabetes_type_2": [
+        "monitor_blood_sugar",
+        "follow_diet"
+    ],
+    "diarrhea": [
+        "drink_plenty_water",
+        "eat_light_food"
+    ],
+    "eczema": [
+        "use_moisturizing_creams",
+        "avoid_allergens"
+    ],
+    "epilepsy": [
+        "take_anticonvulsants",
+        "avoid_triggers"
+    ],
+    "flu": [
+        "rest_and_drink_fluids",
+        "take_pain_relievers"
+    ],
+    "furuncle": [
+        "apply_antibiotic_ointment",
+        "keep_area_clean"
+    ],
+    "gambling_addiction": [
+        "seek_psychological_help"
+    ],
+    "gastritis": [
+        "follow_diet",
+        "avoid_spicy_foods",
+        "eat_small_meals"
+    ],
+    "gastroenteritis": [
+        "drink_plenty_water",
+        "eat_light_food"
+    ],
+    "gonorrhea": [
+        "take_antibiotics_injections",
+        "maintain_genital_hygiene"
+    ],
+    "gout": [
+        "avoid_purine_rich_foods",
+        "take_pain_relievers"
+    ],
+    "heartburn": [
+        "avoid_spicy_foods",
+        "eat_small_meals"
+    ],
+    "hemorrhoids": [
+        "use_hemorrhoid_suppositories",
+        "increase_fiber_intake"
+    ],
+    "hepatitis_a": [
+        "rest_and_drink_fluids",
+        "avoid_alcohol"
+    ],
+    "hepatitis_b": [
+        "get_hepatitis_vaccine",
+        "avoid_alcohol"
+    ],
+    "hernia": [
+        "avoid_lifting_weights",
+        "surgical_removal"
+    ],
+    "herpes": [
+        "use_antiviral_ointments",
+        "take_antiviral_drugs"
+    ],
+    "hypertension": [
+        "take_blood_pressure_medication",
+        "avoid_salt"
+    ],
+    "influenza": [
+        "rest_and_drink_fluids",
+        "get_vaccinated"
+    ],
+    "kidney_stones": [
+        "drink_lots_of_water",
+        "avoid_salt"
+    ],
+    "laryngitis": [
+        "rest_your_voice",
+        "drink_plenty_water"
+    ],
+    "lichen": [
+        "use_antifungal_creams",
+        "keep_skin_dry"
+    ],
+    "migraine": [
+        "avoid_triggers",
+        "take_pain_relievers",
+        "rest_in_dark_room"
+    ],
+    "mumps": [
+        "rest_and_drink_fluids",
+        "apply_cold_compresses"
+    ],
+    "otitis": [
+        "use_ear_drops",
+        "take_antibiotics"
+    ],
+    "pancreatitis": [
+        "avoid_alcohol",
+        "follow_diet",
+        "avoid_fatty_foods"
+    ],
+    "pneumonia": [
+        "take_antibiotics",
+        "rest_and_drink_fluids"
+    ],
+    "prostatitis": [
+        "take_antibiotics",
+        "drink_plenty_water"
+    ],
+    "psoriasis": [
+        "use_psoriasis_creams",
+        "avoid_stress"
+    ],
+    "rhinitis": [
+        "use_nasal_sprays",
+        "avoid_allergens"
+    ],
+    "rubella": [
+        "rest_and_drink_fluids",
+        "isolate_from_others"
+    ],
+    "scabies": [
+        "use_scabies_ointment",
+        "wash_bedding_hot_water"
+    ],
+    "sinusitis": [
+        "use_nasal_sprays",
+        "do_inhalations"
+    ],
+    "stomach_ulcer": [
+        "avoid_spicy_foods",
+        "take_antibiotics",
+        "eat_small_meals"
+    ],
+    "syphilis": [
+        "take_antisyphilitic_drugs",
+        "maintain_genital_hygiene"
+    ],
+    "thrombophlebitis": [
+        "wear_compression_stockings",
+        "elevate_your_legs"
+    ],
+    "tonsillitis": [
+        "gargle_with_salt_water",
+        "take_antibiotics"
+    ],
+    "tuberculosis": [
+        "take_tuberculosis_medication",
+        "get_plenty_rest"
+    ],
+    "urethritis": [
+        "take_antibiotics",
+        "drink_plenty_water",
+        "maintain_genital_hygiene"
+    ],
+    "urticaria": [
+        "take_antihistamines_tablets",
+        "avoid_allergens"
+    ],
+    "varicose_veins": [
+        "wear_compression_stockings",
+        "elevate_your_legs"
+    ],
+    "vitamin_deficiency": [
+        "eat_vitamin_rich_foods",
+        "take_vitamin_supplements"
+    ]
+}
