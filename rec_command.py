@@ -57,10 +57,17 @@ async def select(message : Message,state : FSMContext):
 
     if name is not None:
         await state.clear()
-
+        a = 1
+        rec : str = ""
+        for i in await json_reader.get_all_recommendations_diseases(name):
+            if i == None or i == "None":
+                continue
+            rec += f"{a}]{await json_reader.get_all_recommendations_translate(i)}\n"
+            a+=1
         await message.answer(f"""
-                Рекомендации по {message.text} ({name}):
-
+                Рекомендации по {message.text}:
+{rec}
+Ещё вопросы? /rec
                 """, reply_markup=ReplyKeyboardRemove())
     else:
         await message.answer("Болезнь не найдена")
